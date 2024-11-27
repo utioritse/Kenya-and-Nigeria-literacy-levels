@@ -1,3 +1,27 @@
-# Kenya-and-Nigeria-literacy-levels
+# Kenya and Nigeria: Literacy Levels Comparison  
 
-<img src="https://www.canva.com/design/DAGVRRtTf2k/9feUtAdTu-e7yateUPlYBA/view?utm_content=DAGVRRtTf2k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h63a74cc9ee" alt="canva"></img>
+## Overview  
+This visualisation highlights the surprising disparities between Kenya and Nigeria in literacy rates and rural populations. Through two simple visualizations created with PowerBi, I explored how government policies and population dynamics influence educational outcomes.  
+
+
+
+
+## Key Insights  
+- Rural Population: Kenya has a higher rural population than Nigeria, despite its smaller overall population (50M vs. 200M).  
+- Literacy Rate: Kenya outperforms Nigeria in literacy, ranking second in Sub-Saharan Africa as of 2022.  
+  - Kenya introduced free and compulsory primary education in 2003, significantly improving literacy over time.  
+  - Nigeria faces systemic education challenges, including funding issues, university strikes, and a high number of out-of-school children.
+
+
+## Tools  
+- Dataset: Provided by ALX, featuring population and literacy data.  
+- PowerBi: Used to create two simple column charts for visualizing key comparisons.  
+
+
+## Reflection  
+This exercise demonstrates how even basic visualizations can:  
+- Challenge biases, such as associating urban centres with national trends.  
+- Tell impactful stories that reveal policy successes and failures.  
+- Inspire curiosity and deeper exploration of data-driven narratives.  
+
+
