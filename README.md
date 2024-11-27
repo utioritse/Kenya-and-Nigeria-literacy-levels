@@ -3,8 +3,9 @@
 ## Overview  
 This visualisation highlights the surprising disparities between Kenya and Nigeria in literacy rates and rural populations. Through two simple visualizations created with PowerBi, I explored how government policies and population dynamics influence educational outcomes.  
 
+![An Image Of Data Of Literacy Rate](literacy-rate.png)
 
-
+![Rural Population In Africa](rural-population-in-Africa.png)
 
 ## Key Insights  
 - Rural Population: Kenya has a higher rural population than Nigeria, despite its smaller overall population (50M vs. 200M).  
